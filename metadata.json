@@ -1,0 +1,6 @@
+{
+  "name": "Vox Dialer",
+  "description": "A modern, Google Phone-styled phone dialer app with a real-time voice changer and Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
